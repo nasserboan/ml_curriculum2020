@@ -40,7 +40,7 @@ ___
 
 Crawler de Instagram para listar meus followers e os followers deles, somente dois níveis. Armazenar tudo em um banco não relacional (MongoDB) e gerar uma análise completa da rede.
 
-> **Conhecimentos necessários:** MongoDB, Construção de Pipelines, Análise de Redes, Web Crawling.
+> **Conhecimentos necessários:** MongoDB, Construção de Pipelines, Análise de Redes, Web Crawling, PySpark.
 
 ### Projeto 2: Perceptron Manual
 
